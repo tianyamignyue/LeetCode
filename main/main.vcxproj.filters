@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="solution003.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution004.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution005.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution006.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution007.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution008.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution009.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution029.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution011.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution019.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution013.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution014.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution015.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution017.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution018.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution028.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution036.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution038.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution058.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution066.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution067.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution100.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution101.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution102.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution104.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution118.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution122.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution165.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution168.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution169.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution171.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution172.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution144.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution136.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution190.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution191.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution198.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution199.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution204.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution205.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution206.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution208.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution217.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution219.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution225.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution234.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution235.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution237.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution242.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution278.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution290.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution299.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
