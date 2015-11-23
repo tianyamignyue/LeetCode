@@ -30,9 +30,17 @@
     <ClInclude Include="solution014.h" />
     <ClInclude Include="solution013.h" />
     <ClInclude Include="solution011.h" />
+    <ClInclude Include="solution031.h" />
     <ClInclude Include="solution036.h" />
     <ClInclude Include="solution038.h" />
+    <ClInclude Include="solution039.h" />
+    <ClInclude Include="solution043.h" />
+    <ClInclude Include="solution046.h" />
+    <ClInclude Include="solution048.h" />
+    <ClInclude Include="solution053.h" />
+    <ClInclude Include="solution054.h" />
     <ClInclude Include="solution058.h" />
+    <ClInclude Include="solution059.h" />
     <ClInclude Include="solution066.h" />
     <ClInclude Include="solution067.h" />
     <ClInclude Include="solution100.h" />

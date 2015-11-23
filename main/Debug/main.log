@@ -1,21 +1,18 @@
-﻿生成启动时间为 2015/10/31 20:30:49。
-     1>项目“E:\编程练习\LeetCode\LeetCode\main\main.vcxproj”在节点 2 上(Build 个目标)。
+﻿生成启动时间为 2015/11/22 22:21:41。
+     1>项目“E:\编程练习\LeetCodeInOneProject\main\main.vcxproj”在节点 2 上(Build 个目标)。
      1>InitializeBuildStatus:
          正在创建“Debug\main.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
        ClCompile:
          D:\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
          main.cpp
-     1>e:\编程练习\leetcode\leetcode\main\solution299.h(12): warning C4018: “<”: 有符号/无符号不匹配
-     1>e:\编程练习\leetcode\leetcode\main\solution299.h(22): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
        Link:
-         D:\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\编程练习\LeetCode\LeetCode\Debug\main.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"E:\编程练习\LeetCode\LeetCode\Debug\main.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\编程练习\LeetCode\LeetCode\Debug\main.lib" /MACHINE:X86 Debug\main.obj
-         main.vcxproj -> E:\编程练习\LeetCode\LeetCode\Debug\main.exe
+         D:\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\编程练习\LeetCodeInOneProject\Debug\main.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"E:\编程练习\LeetCodeInOneProject\Debug\main.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\编程练习\LeetCodeInOneProject\Debug\main.lib" /MACHINE:X86 Debug\main.obj
+         main.vcxproj -> E:\编程练习\LeetCodeInOneProject\Debug\main.exe
        FinalizeBuildStatus:
          正在删除文件“Debug\main.tlog\unsuccessfulbuild”。
          正在对“Debug\main.tlog\main.lastbuildstate”执行 Touch 任务。
-     1>已完成生成项目“E:\编程练习\LeetCode\LeetCode\main\main.vcxproj”(Build 个目标)的操作。
+     1>已完成生成项目“E:\编程练习\LeetCodeInOneProject\main\main.vcxproj”(Build 个目标)的操作。
 
 已成功生成。
 
-已用时间 00:00:02.10
+已用时间 00:00:00.67

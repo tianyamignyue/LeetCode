@@ -176,5 +176,29 @@
     <ClInclude Include="solution299.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="solution031.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution039.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution043.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution046.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution048.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution053.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution054.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution059.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
