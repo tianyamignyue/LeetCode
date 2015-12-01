@@ -1,0 +1,22 @@
+class Solution {
+public:
+    int uniquePaths(int m, int n) {
+        if(m <= 0 && n <= 0)
+            return 0;
+        if(m == 1 || n == 1)
+            return 1;
+        int down = m - 1;
+        int right = n - 1;
+        int min = down < right ? down : right;
+        int add = down + right;
+        long long result = add - min + 1;
+        int factor = result + 1;
+        while(factor <= add){
+            result *= factor++;
+        }
+        while(min > 1){
+            result /= min--;
+        }
+        return result;
+    }
+};
