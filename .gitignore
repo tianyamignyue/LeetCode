@@ -13,3 +13,5 @@ main/Debug/main.tlog/link.write.1.tlog
 *.idb
 main/Debug/vc140.pdb
 *.filters
+*.sdf
+.vs/main/v14/.suo
