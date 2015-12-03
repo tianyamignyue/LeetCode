@@ -1,0 +1,15 @@
+*.exe
+Debug/main.ilk
+*.pdb
+Debug/main.pdb
+*.opensdf
+main.sdf
+*.log
+main/Debug/main.obj
+*.tlog
+main/Debug/main.tlog/CL.read.1.tlog
+*.tlog
+main/Debug/main.tlog/link.write.1.tlog
+*.idb
+main/Debug/vc140.pdb
+*.filters

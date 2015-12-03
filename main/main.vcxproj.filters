@@ -206,5 +206,8 @@
     <ClInclude Include="solution063.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="solution064.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
