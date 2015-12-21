@@ -14,6 +14,7 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="leetCodeHead.h" />
     <ClInclude Include="solution003.h" />
     <ClInclude Include="solution004.h" />
     <ClInclude Include="solution028.h" />
@@ -46,6 +47,17 @@
     <ClInclude Include="solution064.h" />
     <ClInclude Include="solution066.h" />
     <ClInclude Include="solution067.h" />
+    <ClInclude Include="solution071.h" />
+    <ClInclude Include="solution073.h" />
+    <ClInclude Include="solution074.h" />
+    <ClInclude Include="solution077.h" />
+    <ClInclude Include="solution078.h" />
+    <ClInclude Include="solution079.h" />
+    <ClInclude Include="solution081.h" />
+    <ClInclude Include="solution086.h" />
+    <ClInclude Include="solution090.h" />
+    <ClInclude Include="solution091.h" />
+    <ClInclude Include="solution092.h" />
     <ClInclude Include="solution100.h" />
     <ClInclude Include="solution101.h" />
     <ClInclude Include="solution102.h" />

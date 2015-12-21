@@ -209,5 +209,41 @@
     <ClInclude Include="solution064.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="solution071.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution073.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution074.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution077.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution079.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution081.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution086.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution078.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="leetCodeHead.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution090.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution091.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution092.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
