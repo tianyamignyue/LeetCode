@@ -36,8 +36,3 @@ public:
 		return q.empty();
 	}
 };
-
-int main()
-{
-	return 0;
-}

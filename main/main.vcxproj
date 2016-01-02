@@ -58,10 +58,17 @@
     <ClInclude Include="solution090.h" />
     <ClInclude Include="solution091.h" />
     <ClInclude Include="solution092.h" />
+    <ClInclude Include="solution093.h" />
+    <ClInclude Include="solution095.h" />
+    <ClInclude Include="solution098.h" />
     <ClInclude Include="solution100.h" />
     <ClInclude Include="solution101.h" />
     <ClInclude Include="solution102.h" />
+    <ClInclude Include="solution103.h" />
     <ClInclude Include="solution104.h" />
+    <ClInclude Include="solution108.h" />
+    <ClInclude Include="solution109.h" />
+    <ClInclude Include="solution113.h" />
     <ClInclude Include="solution118.h" />
     <ClInclude Include="solution122.h" />
     <ClInclude Include="solution165.h" />
@@ -89,6 +96,7 @@
     <ClInclude Include="solution278.h" />
     <ClInclude Include="solution290.h" />
     <ClInclude Include="solution299.h" />
+    <ClInclude Include="solution105.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{14398E1A-707D-41F7-BF0F-E1892CC5FEF0}</ProjectGuid>
