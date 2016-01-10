@@ -2,13 +2,17 @@
 
 #include <iostream>
 #include <iomanip>
-#include <algorithm>
+
 
 #include <vector>
 #include <list>
 #include <string>
 #include <queue>
-
+#include <unordered_set>
+#include <unordered_map>
+#include <set>
+#include <map>
+#include <algorithm>
 using namespace std;
 
 static const int MIN_INT = 0x80000000;
@@ -31,14 +35,23 @@ struct TreeNode {
 };
 
 
-
-void printv(const vector<int> &vec) {
+template <class TYPE>
+void printv(const vector<TYPE> &vec) {
 	for (auto ele : vec) {
 		cout << ele << '\t';
 	}
 	cout << endl;
 }
-void printvv(const vector<vector<int>> &vec) {
+
+void printvs(const vector<string> &vec) {
+	for (auto ele : vec) {
+		cout << ele << endl;
+	}
+	cout << endl;
+}
+
+template <class TYPE>
+void printvv(const vector<vector<TYPE>> &vec) {
 	for (auto row : vec) {
 		printv(row);
 	}
