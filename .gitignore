@@ -15,3 +15,6 @@ main/Debug/vc140.pdb
 *.filters
 *.sdf
 .vs/main/v14/.suo
+.vs/main/v14/.suo
+main.sdf
+main/Debug/vc140.idb
