@@ -76,6 +76,10 @@
     <ClInclude Include="solution130.h" />
     <ClInclude Include="solution131.h" />
     <ClInclude Include="solution133.h" />
+    <ClInclude Include="solution137.h" />
+    <ClInclude Include="solution139.h" />
+    <ClInclude Include="solution142.h" />
+    <ClInclude Include="solution147.h" />
     <ClInclude Include="solution165.h" />
     <ClInclude Include="solution168.h" />
     <ClInclude Include="solution169.h" />
