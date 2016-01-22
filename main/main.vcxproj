@@ -80,6 +80,9 @@
     <ClInclude Include="solution139.h" />
     <ClInclude Include="solution142.h" />
     <ClInclude Include="solution147.h" />
+    <ClInclude Include="solution148.h" />
+    <ClInclude Include="solution150.h" />
+    <ClInclude Include="solution151.h" />
     <ClInclude Include="solution165.h" />
     <ClInclude Include="solution168.h" />
     <ClInclude Include="solution169.h" />

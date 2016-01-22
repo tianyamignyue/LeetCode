@@ -2,7 +2,7 @@
 
 #include <iostream>
 #include <iomanip>
-
+#include <sstream>
 
 #include <vector>
 #include <list>
@@ -68,6 +68,8 @@ ListNode* buildList(const vector<int> &nums) {
 	ListNode *head(NULL), *p(NULL);
 	if (!nums.empty()) {
 		p = head = new ListNode(nums[0]);
+	} else {
+		return NULL;
 	}
 	for (int i = 1; i < nums.size(); ++i) {
 		p->next = new ListNode(nums[i]);
