@@ -87,6 +87,7 @@
     <ClInclude Include="solution153.h" />
     <ClInclude Include="solution162.h" />
     <ClInclude Include="solution165.h" />
+    <ClInclude Include="solution166.h" />
     <ClInclude Include="solution168.h" />
     <ClInclude Include="solution169.h" />
     <ClInclude Include="solution171.h" />

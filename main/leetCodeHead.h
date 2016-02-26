@@ -71,7 +71,7 @@ ListNode* buildList(const vector<int> &nums) {
 	} else {
 		return NULL;
 	}
-	for (int i = 1; i < nums.size(); ++i) {
+	for (unsigned i = 1; i < nums.size(); ++i) {
 		p->next = new ListNode(nums[i]);
 		p = p->next;
 	}

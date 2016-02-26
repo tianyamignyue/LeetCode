@@ -314,5 +314,8 @@
     <ClInclude Include="solution162.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="solution166.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
