@@ -1,8 +1,7 @@
 #include <iostream>
 using namespace std;
-
-#include "solution166.h"
-
+#include <stdio.h>
+#include "solution207.h"
 int main()
 {
 	test();

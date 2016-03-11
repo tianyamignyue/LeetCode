@@ -317,5 +317,14 @@
     <ClInclude Include="solution166.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="solution173.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution200.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution207.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
