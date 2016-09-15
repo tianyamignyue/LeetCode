@@ -22,7 +22,9 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="solution224.h" />
     <ClInclude Include="leetCodeHead.h" />
+    <ClInclude Include="solution210.h" />
     <ClInclude Include="solution003.h" />
     <ClInclude Include="solution004.h" />
     <ClInclude Include="solution028.h" />
@@ -113,8 +115,12 @@
     <ClInclude Include="solution206.h" />
     <ClInclude Include="solution207.h" />
     <ClInclude Include="solution208.h" />
+    <ClInclude Include="solution213.h" />
+    <ClInclude Include="solution215.h" />
     <ClInclude Include="solution217.h" />
     <ClInclude Include="solution219.h" />
+    <ClInclude Include="solution221.h" />
+    <ClInclude Include="solution222.h" />
     <ClInclude Include="solution225.h" />
     <ClInclude Include="solution234.h" />
     <ClInclude Include="solution235.h" />
@@ -124,6 +130,7 @@
     <ClInclude Include="solution290.h" />
     <ClInclude Include="solution299.h" />
     <ClInclude Include="solution105.h" />
+    <ClInclude Include="solution374.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{14398E1A-707D-41F7-BF0F-E1892CC5FEF0}</ProjectGuid>

@@ -1,7 +1,5 @@
-#include <iostream>
-using namespace std;
-#include <stdio.h>
-#include "solution207.h"
+#include "solution224.h"
+
 int main()
 {
 	test();
